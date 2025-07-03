@@ -52,9 +52,8 @@ We provide the training codes for TextIR.
 
 1. Training dataset preparation: [FFHQ](https://github.com/NVlabs/ffhq-dataset)
 
-> python make_val_dataset.py --input datasets/celeba_val --output datasets/celeba_val_input
 
-1. Modify the configuration file `options/*.yml` accordingly.
+ Modify the configuration file `options/*.yml` accordingly.
 
 1. Training
 
