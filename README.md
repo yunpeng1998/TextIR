@@ -7,6 +7,7 @@ Tsinghua University; Shenzhen Institute of Advanced Technology, Chinese Academy 
 <img src="assets/textir.jpg" width="800px"/>
 
 #### Results
+[🎥 Click here to watch the demo video](assets/demo.mp4)
 <video src="assets/demo.mp4" width="800px" controls></video>
 
 
